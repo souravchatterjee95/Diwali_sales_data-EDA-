@@ -1,5 +1,5 @@
 # Diwali_sales_data-EDA-
-this is a Explanatory Data Analysis of Diwali Sales dataset done on python.
+this is a Exploratory Data Analysis of Diwali Sales dataset done on python.
 question that were answered here:
 1) how many number of buyers based on Gender?
 2) total sales amount by gender
